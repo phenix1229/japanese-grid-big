@@ -17,11 +17,13 @@ img {
 }
 
 #bamboo {
-
+    grid-column: 13/15;
+    grid-row: 11/12;
 }
 
 #cell-tower {
-
+    grid-column: 11/15;
+    grid-row: 9/11;
 }
     
 #dolls-rectangle {
@@ -30,11 +32,13 @@ img {
 }
     
 #dolls-square {
-
+    grid-column: 13/15;
+    grid-row: 1/3;
 }
 
 #fish-flag-wide {
-
+    grid-column: 5/9;
+    grid-row: 11/12;
 }
     
 #fish-flag {
@@ -48,7 +52,8 @@ img {
 }
     
 #flag-square {
-
+    grid-column: 7/9;
+    grid-row: 1/3;
 }
     
 #gate-wide {
@@ -61,23 +66,27 @@ img {
 }
     
 #horn-horizontal {
-
+    grid-column: 11/13;
+    grid-row: 2/3;
 }
     
 #horn-vertical {
-
+    grid-column: 9/11;
+    grid-row: 9/12;
 }
     
 #kimono-1 {
-
+    grid-column: 5/9;
+    grid-row: 9/11;
 }
     
 #kimono-2 {
-
+    
 }
     
 #lantern-short {
-
+    grid-column: 5/7;
+    grid-row: 1/3;
 }
     
 #lantern-tall {
@@ -85,7 +94,8 @@ img {
 }
     
 #lanterns-three {
-
+    grid-column: 9/15;
+    grid-row: 3/5;
 }
     
 #map-wide {
@@ -98,15 +108,18 @@ img {
 }
     
 #masks-wide {
-
+    grid-column: 5/9;
+    grid-row: 4/6;
 }
     
 #masks {
-    
+    grid-column: 5/7;
+    grid-row: 7/9;
 }
     
 #monster-wide {
-
+    grid-column: 9/13;
+    grid-row: 1/2;
 }
     
 #monster {
@@ -115,19 +128,23 @@ img {
 }
     
 #pagoda-big {
-
+    grid-column: 9/13;
+    grid-row: 6/8;
 }
     
 #pagoda {
-
+    grid-column: 11/13;
+    grid-row: 11/12;
 }
     
 #painting {
-
+    grid-column: 5/9;
+    grid-row: 3/4;
 }
     
 #quadropi-five {
-
+    grid-column: 9/15;
+    grid-row: 8/9;
 }
     
 #quadropus {
@@ -140,7 +157,8 @@ img {
 }
     
 #sake {
-
+    grid-column: 9/11;
+    grid-row: 5/6;
 }
     
 #sunrise-horizontal {
@@ -153,7 +171,8 @@ img {
 }
     
 #sushi-extra-wide {
-
+    grid-column: 5/9;
+    grid-row: 6/7;
 }
     
 #sushi-wide {
@@ -162,11 +181,13 @@ img {
 }
     
 #sushi {
-
+    grid-column: 11/13;
+    grid-row: 5/6;
 }
     
 #vase-horizontal {
-
+    grid-column: 9/11;
+    grid-row: 2/3;
 }
     
 #vase-vertical-short {
@@ -184,11 +205,13 @@ img {
 }
     
 #wave-horizontal {
-
+    grid-column: 7/9;
+    grid-row: 7/9;
 }
     
 #wave-vertical {
-
+    grid-column: 13/15;
+    grid-row: 5/8;
 }
     
 #writing-horizontal {
