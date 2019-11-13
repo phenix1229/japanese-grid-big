@@ -1,0 +1,200 @@
+#main {
+    width: 1200px;
+    height: 900px;
+    display: grid;
+    grid-template-columns: repeat(18, 1fr);
+    grid-template-rows: repeat(11, 1fr);
+}
+
+img {
+    height: 100%;
+    width: 100%;
+}
+
+#big-bamboo {
+    grid-column: 2/5;
+    grid-row: 3/5;
+}
+
+#bamboo {
+
+}
+
+#cell-tower {
+
+}
+    
+#dolls-rectangle {
+    grid-column: 1/5;
+    grid-row: 8/9;
+}
+    
+#dolls-square {
+
+}
+
+#fish-flag-wide {
+
+}
+    
+#fish-flag {
+    grid-column: 1/4;
+    grid-row: 1/2;
+}
+    
+#flag-rectangle {
+    grid-column: 3/5;
+    grid-row: 6/8;
+}
+    
+#flag-square {
+
+}
+    
+#gate-wide {
+
+}
+    
+#gate {
+    grid-column: 1/4;
+    grid-row: 9/11;
+}
+    
+#horn-horizontal {
+
+}
+    
+#horn-vertical {
+
+}
+    
+#kimono-1 {
+
+}
+    
+#kimono-2 {
+
+}
+    
+#lantern-short {
+
+}
+    
+#lantern-tall {
+
+}
+    
+#lanterns-three {
+
+}
+    
+#map-wide {
+
+}
+    
+#map {
+    grid-column: 1/4;
+    grid-row: 2/3;
+}
+    
+#masks-wide {
+
+}
+    
+#masks {
+    
+}
+    
+#monster-wide {
+
+}
+    
+#monster {
+    grid-column: 1/3;
+    grid-row: 6/8;
+}
+    
+#pagoda-big {
+
+}
+    
+#pagoda {
+
+}
+    
+#painting {
+
+}
+    
+#quadropi-five {
+
+}
+    
+#quadropus {
+    grid-column: 2/5;
+    grid-row: 5/6;
+}
+    
+#sake-wide {
+
+}
+    
+#sake {
+
+}
+    
+#sunrise-horizontal {
+
+}
+    
+#sunrise-vertical {
+    grid-column: 4/5;
+    grid-row: 9/12;
+}
+    
+#sushi-extra-wide {
+
+}
+    
+#sushi-wide {
+    grid-column: 1/4;
+    grid-row: 11/12;
+}
+    
+#sushi {
+
+}
+    
+#vase-horizontal {
+
+}
+    
+#vase-vertical-short {
+    grid-column: 4/5;
+    grid-row: 1/3;
+}
+    
+#vase-vertical-tall {
+    grid-column: 1/2;
+    grid-row: 3/6;
+}
+    
+#volcano {
+
+}
+    
+#wave-horizontal {
+
+}
+    
+#wave-vertical {
+
+}
+    
+#writing-horizontal {
+
+}
+    
+#writing-vertical {
+
+}
